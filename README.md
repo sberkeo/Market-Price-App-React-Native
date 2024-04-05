@@ -1,5 +1,20 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+All Financial Market Watcher gives you access to all instruments active all over the world. 
+
+You can view Forex, parities, stocks, crypto and metals all in one place and examine price changes. 
+
+With its simple interface, data on all stocks, all forex pairs, all cryptocurrencies and tokens, metals such as gold and silver are at your fingertips!
+
+Signals and alert generation will be added in the future. 
+
+It pulls data from TradingView. 
+
+For commercial use, contact ozyasarserdarberke@gmail.com for application support or code support, sberke.com, ozyasarserdarberke@gmail.com
+
+![unnamed (1)](https://github.com/sberkeo/Market-Price-App-React-Native/assets/121774579/5962d1a2-027a-4ce4-baf0-eea94fcd46ad)
+
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
